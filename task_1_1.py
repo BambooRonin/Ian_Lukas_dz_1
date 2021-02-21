@@ -5,4 +5,4 @@ hour = given_seconds // 3600    # вычисление часов
 days = given_seconds // 86400   # вычисление дней
 weeks = days * 7    # вычисление недель
 
-print(weeks,'нед', days, 'дн', hour, 'ч', mins, 'мин', sec, 'сек')   # выдача результата
+print(weeks,'нед', days, 'дн', hour, 'ч', min, 'мин', sec, 'сек')   # выдача результата
